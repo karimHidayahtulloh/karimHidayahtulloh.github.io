@@ -1,0 +1,14 @@
+body{
+	/*margin: 100% 100%;*/
+	background: url('home.png');
+	background-repeat: no-repeat;
+	background-size: 100% 146%;
+}
+
+#button{
+	padding: 40% 60% 50% 10%
+}
+#masuk {
+	color: black;
+
+}
